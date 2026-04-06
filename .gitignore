@@ -1,0 +1,15 @@
+# Composer dependencies (install via: composer install)
+child-theme/actor-cv-export/vendor/
+
+# Cursor AI workspace files
+.cursor/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE
+*.code-workspace
+
+# mPDF temp files
+child-theme/actor-cv-export/tmp/

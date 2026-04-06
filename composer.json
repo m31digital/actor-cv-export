@@ -1,0 +1,17 @@
+{
+    "name": "agentur-frehse/actor-cv-export",
+    "description": "Actor CV PDF Export for Casting Directors",
+    "type": "library",
+    "require": {
+        "php": ">=7.4",
+        "mpdf/mpdf": "^8.2"
+    },
+    "config": {
+        "vendor-dir": "child-theme/actor-cv-export/vendor"
+    },
+    "authors": [
+        {
+            "name": "Agentur Frehse"
+        }
+    ]
+}
